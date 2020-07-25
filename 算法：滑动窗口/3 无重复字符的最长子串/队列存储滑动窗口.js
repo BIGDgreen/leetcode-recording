@@ -27,4 +27,3 @@ var lengthOfLongestSubstring = function (s) {
 };
 // @lc code=end
 
-console.log(lengthOfLongestSubstring("bbbbbbbbbb"));
