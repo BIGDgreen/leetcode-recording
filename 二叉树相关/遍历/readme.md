@@ -1,4 +1,13 @@
+<!--
+ * @Author       : BigDgreen
+ * @Date         : 2020-06-27 15:37:49
+ * @LastEditors  : BigDgreen
+ * @LastEditTime : 2020-07-30 20:04:08
+ * @FilePath     : \leetcode\二叉树相关\遍历\readme.md
+--> 
 # 二叉树的先/中/后序遍历套路总结
+二叉树的先序遍历也是深度优先遍历，层序遍历也是广度优先遍历。
+
 以先序遍历为例：
 ## 递归
 ```js
